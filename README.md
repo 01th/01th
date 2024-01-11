@@ -1,6 +1,6 @@
 - 👋 Hi everyone
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, Linux, Java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me @01th
 
 <!---
