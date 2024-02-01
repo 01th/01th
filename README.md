@@ -1,6 +1,6 @@
 - 👋 Hi everyone, I like to write code
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me @01th 
 
 <!---
