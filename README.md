@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 -    I’m currently use Linux
-- 📫 How to reach me @01th 
 
 <!---
 01th/01th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
