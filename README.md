@@ -1,6 +1,8 @@
 class AboutMe {
     String name = "Ru"
+
     String yearsOfExperience;
+
     String role = "Android Engineer"
 }
 
