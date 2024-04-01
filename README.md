@@ -1,12 +1,4 @@
-class AboutMe {
-
-    String name = "Ru"
-
-    String yearsOfExperience;
-
-    String role = "Android Engineer"
-    
-}
+Hello
 
 <!---
 01th/01th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
