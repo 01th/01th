@@ -1,5 +1,5 @@
 Hello.
-I am a #BeginnerAndroidDeveloper
+I am a Beginner Android Developer
 
 <!---
 01th/01th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
