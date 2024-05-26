@@ -1,4 +1,4 @@
-# Hello 
+# Hi there
 ## I am a Beginner Android Developer
 ### I learn Java and Kotlin
 #### I use Linux
