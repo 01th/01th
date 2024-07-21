@@ -1,5 +1,8 @@
-# Whats up
-<!---
-01th/01th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 What's up! I'm Rus
+💻 Developer | Innovator | Tech Enthusiast
+
+🛠 Stack: Java, Kotlin, Linux
+🌱 Learning: Android Development, Advanced Java, Kotlin
+🚀 Projects: As soon as possible
+💬 Ask me about: Andoird Development, Open Source, Tech Trends
+📫 Reach me at: x.com/05thh
