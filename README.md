@@ -11,4 +11,3 @@
 💬 Ask me about: Andoird Development, Open Source, Tech Trends.
 
 📫 Reach me at: x.com/05thh.
-
