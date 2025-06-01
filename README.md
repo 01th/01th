@@ -2,9 +2,9 @@
 
 💻 Developer | Innovator | Tech Enthusiast.
 
-🛠 Stack: Java, Kotlin, Linux, Mac.
+🛠 Stack: Java, Python, Linux, Mac.
 
-🌱 Learning: Android Development, Advanced Java, Kotlin.
+🌱 Learning: Android Development, Advanced Java, Python.
 
 🚀 Projects: As soon as possible.
 
