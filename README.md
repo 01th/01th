@@ -1,1 +1,1 @@
-👋 What's up! I'm Rus.
+👋 What's up! I'm Rus
